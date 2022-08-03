@@ -1,0 +1,134 @@
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,600&display=swap');
+
+
+    .sqa {
+        margin-bottom: 20px;
+        padding: 15px 20px;
+        border-radius: 20px;
+    }
+    .card h2{ 
+        margin-bottom: 10px;
+    }
+    a {
+        color: black;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    a:visited {
+        color: dimgray;
+    }
+    body {
+        background-color: #f1f1f1;
+        color: #1a1b1b;
+
+        font-size: 16px;
+        font-weight: bold;
+        font-family: 'Roboto Flex', sans-serif;
+    }
+
+    .pht {
+        width: 200px;
+        height: 200px;
+    }
+    .in p {
+        color: #0f141e;
+        margin: 0;
+        font-weight: bold;
+        text-decoration: none;
+        
+    }
+    .in h1 {
+        letter-spacing: 2px;
+    }
+    .cont {
+        max-width: 900px;
+        margin: auto;
+    }
+    .bg-grey {
+        background: silver;
+    }
+    .bg-white {
+        background: silver;
+    }
+    .bg-black {
+        background: silver;
+    }
+    .bg-red {
+        background: silver;
+    }
+    .card {
+        padding: 15px 20px;
+        margin-bottom: 20px;
+        border-radius: 20px;
+    }
+    .list ol {
+        margin-bottom: 10px;
+    }
+    .table {
+        width: 100%;
+    }
+    .table td {
+        padding-bottom: 10px;
+    }
+    .tdd {
+        text-decoration: underline;
+    }
+    .mp4 {
+        margin-left: 30px;
+    }
+    .h2o {
+        text-align: center;
+    }
+
+    .fgroup label {
+        display: block;
+        font-size: 15px;
+    }
+    .fgroup input {
+        width: 100%;
+        box-sizing: border-box;
+        border: none;
+        background: transparent;
+        border-bottom: 1px solid #f1f1f1;
+        color: black;  
+        padding: 10px 0px 10px;
+        outline: none;
+        font-family: inherit;
+    }
+    .row {
+        display: block;
+        width: 100%;
+        margin-right: 20px;
+    }
+    .textarea {
+        margin-top: 15px;
+        text-align: center;
+    }
+    .in {
+        display: flex;
+    }
+    .intx {
+        margin-top: 40px;
+    }
+    .knsa {
+        background: #0f141e;
+        color: white;
+        padding: 15px 20px;
+        border: none;
+        font-family: inherit;
+        cursor: pointer;
+    }
+    .knsa:hover {
+        opacity: 0.9;
+    }
+    @media (max-width: 900px) {
+        .in {
+            display: block;
+            text-align: center;
+        }
+    }
+    .svaz {
+        text-align: center;
+    }
